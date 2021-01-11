@@ -1,7 +1,7 @@
-*.brd linguist-language=e
-*.sch linguist-language=e
-*.epf linguist-language=e
-*.scr linguist-language=e
+*.brd linguist-language=ea
+*.sch linguist-language=eag
+*.epf linguist-language=eagl
+*.scr linguist-language=eagle
 
 
 
