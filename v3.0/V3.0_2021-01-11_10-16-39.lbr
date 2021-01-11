@@ -252,8 +252,8 @@
 </package>
 <package name="IMPORTED_IMAGE_1PRIMARY">
 <description>Original name &lt;b&gt;IMPORTED_IMAGE&lt;/b&gt;&lt;p&gt;</description>
-<text x="0" y="0.254" size="2.032" layer="25" font="vector" ratio="13" rot="SR0">&gt;NAME</text>
-<text x="0" y="0" size="2.032" layer="27" font="vector" ratio="13" rot="SR0">&gt;VALUE</text>
+<text x="-0.508" y="0.254" size="2.032" layer="25" font="vector" ratio="13" rot="SR0">&gt;NAME</text>
+<text x="-0.508" y="0" size="2.032" layer="27" font="vector" ratio="13" rot="SR0">&gt;VALUE</text>
 </package>
 <package name="P:EX787Y177D1381">
 <pad name="1" x="0" y="0" drill="3.5052" diameter="4.4958" shape="long"/>
