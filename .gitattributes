@@ -1,7 +1,7 @@
-*.brd linguist-language=Eagle
-*.sch linguist-language=Eagle
-*.epf linguist-language=Eagle
-*.scr linguist-language=Easybuild
+*.brd linguist-language=pcb
+*.sch linguist-language=pcb
+*.epf linguist-language=pcb
+*.scr linguist-language=pcb
 
 
 
