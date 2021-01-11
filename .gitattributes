@@ -1,7 +1,0 @@
-*.brd linguist-language=KiCad Layout
-*.sch linguist-language=pcb
-*.epf linguist-language=pcb
-*.scr linguist-language=pcb
-
-
-
