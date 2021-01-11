@@ -1,4 +1,4 @@
-*.pcb linguist-language=Eagle
+*.pcb linguist-language=java
 *.brd linguist-language=Eagle
 *.sch linguist-language=Eagle
 *.epf linguist-language=Eagle
