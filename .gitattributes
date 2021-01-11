@@ -1,7 +1,7 @@
-*.brd linguist-language=EAGLE
-*.sch linguist-language=Eagle
-*.epf linguist-language=Eagle
-*.scr linguist-language=Eagle
+*.brd linguist-language=eagle
+*.sch linguist-language=eagle
+*.epf linguist-language=eagle
+*.scr linguist-language=eagle
 
 
 
