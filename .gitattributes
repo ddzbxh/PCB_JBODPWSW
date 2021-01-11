@@ -1,4 +1,4 @@
-*.brd linguist-language=python
+*.brd linguist-language=PureBasic
 *.sch linguist-language=eagle
 *.epf linguist-language=eagle
 *.scr linguist-language=eagle
