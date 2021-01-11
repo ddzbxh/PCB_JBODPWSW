@@ -1,7 +1,7 @@
-*.brd linguist-language=Eagle project file
-*.sch linguist-language=Eagle project file
-*.epf linguist-language=Eagle project file
-*.scr linguist-language=Eagle project file
+*.brd linguist-language=e
+*.sch linguist-language=e
+*.epf linguist-language=e
+*.scr linguist-language=e
 
 
 
