@@ -5,5 +5,13 @@
 *.scr linguist-language=eagle
 *.B## linguist-language=eagle
 *.pcbdoc linguist-language=eagle
+*.pcb linguist-language=Eagle
+*.brd linguist-language=Eagle
+*.sch linguist-language=Eagle
+*.epf linguist-language=Eagle
+*.scr linguist-language=Eagle
+*.B## linguist-language=Eagle
+*.pcbdoc linguist-language=Eagle
+
 
 
