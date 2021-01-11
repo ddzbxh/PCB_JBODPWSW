@@ -1,7 +1,7 @@
-*.brd linguist-language=ea
-*.sch linguist-language=eag
-*.epf linguist-language=eagl
-*.scr linguist-language=eagle
+*.brd linguist-language=KiCAD
+*.sch linguist-language=KiCAD
+*.epf linguist-language=KiCAD
+*.scr linguist-language=KiCAD
 
 
 
