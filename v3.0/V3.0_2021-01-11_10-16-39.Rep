@@ -1,0 +1,56 @@
+Export log for : V3.0_2021-01-11_10-16-39.Rep
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+AddingPadStyle (Default)
+AddingPadStyle P:EX787Y177D1381
+AddingPadStyle P:EX79Y79D331
+AddingPadStyle P:EX91Y91D591
+AddingPadStyle P:EX71Y71D471
+AddingPadStyle P:EX59Y59D351
+AddingPadStyle P:SX59Y59D351
+AddingPadStyle P:EX63Y63D331
+AddingPadStyle P:EX63Y63D391
+AddingPadStyle P:EX60Y60D361
+AddingPadStyle P:EX118Y118D731
+AddingPadStyle P:EX71Y71D431
+Adding ViaStyle (Default)
+Adding ViaStyle V:EX24Y24D121
+Adding TextStyle (Default)
+Adding TextStyle T:H60W10
+Adding TextStyle T:H1W1
+Adding TextStyle T:H45W6
+Adding TextStyle T:H79W8
+Adding TextStyle T:H51W8
+Adding TextStyle T:H31W8
+Adding TextStyle T:H71W8
+Adding TextStyle T:H39W8
+Adding TextStyle T:H60W6
+Adding PatternDef RELAY-TH_G5LE-14-XX_1
+Adding PatternDef CAP-TH_L6.5-W3.5-P5.00-D1.2_1
+Adding PatternDef HC-49US_L11.5-W4.5-P4.88_1
+Adding PatternDef ATMEGA328P-PU_1
+Adding PatternDef CAP-TH_BD10.0-P5.00-D1.0-FD_1
+Adding PatternDef FAN_1
+Adding PatternDef ATX-24PIN_1_1
+Adding PatternDef KEY-TH_4P-L6.0-W6.0-P4.50-LS6.5_1
+Adding PatternDef IMPORTED_IMAGE_1
+Adding CompDef RELAY-TH_G5LE-14-XX_1
+Adding CompDef CAP-TH_L6.5-W3.5-P5.00-D1.2_1
+Adding CompDef HC-49US_L11.5-W4.5-P4.88_1
+Adding CompDef ATMEGA328P-PU_1
+Adding CompDef CAP-TH_BD10.0-P5.00-D1.0-FD_1
+Adding CompDef FAN_1
+Adding CompDef ATX-24PIN_1_1
+Adding CompDef KEY-TH_4P-L6.0-W6.0-P4.50-LS6.5_1
+Adding CompDef IMPORTED_IMAGE_1
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+ 
+EndLog
