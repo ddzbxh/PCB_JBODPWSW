@@ -1,10 +1,7 @@
-*.pcb linguist-language=eagle
-*.brd linguist-language=Eagle
+*.brd linguist-language=EAGLE
 *.sch linguist-language=Eagle
 *.epf linguist-language=Eagle
 *.scr linguist-language=Eagle
-*.B## linguist-language=Eagle
-*.pcbdoc linguist-language=Eagle
 
 
 
