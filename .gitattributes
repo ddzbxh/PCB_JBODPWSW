@@ -1,4 +1,8 @@
-*.sch linguist-detectable=true
-*.epf linguist-detectable=true
-*.brd linguist-detectable=true
-*.pro linguist-detectable=true
+*.OutJob linguist-detectable=true
+*.PcbDoc linguist-detectable=true
+*.PrjPCB linguist-detectable=true
+*.SchDoc linguist-detectable=true
+*.outjob linguist-detectable=true
+*.pcbdoc linguist-detectable=true
+*.prjpcb linguist-detectable=true
+*.schdoc linguist-detectable=true
