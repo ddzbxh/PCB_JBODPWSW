@@ -6,3 +6,8 @@
 *.pcbdoc linguist-detectable=true
 *.prjpcb linguist-detectable=true
 *.schdoc linguist-detectable=true
+*.sch linguist-detectable=true
+*.epf linguist-detectable=true
+*.brd linguist-detectable=true
+*.pro linguist-detectable=true
+
