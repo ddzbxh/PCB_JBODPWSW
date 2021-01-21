@@ -10,4 +10,20 @@
 *.epf linguist-detectable=true
 *.brd linguist-detectable=true
 *.pro linguist-detectable=true
+*.gbr linguist-detectable=true
+*.cmp linguist-detectable=true
+*.gbl linguist-detectable=true
+*.gbo linguist-detectable=true
+*.gbp linguist-detectable=true
+*.gbs linguist-detectable=true
+*.gko linguist-detectable=true
+*.gml linguist-detectable=true
+*.gpb linguist-detectable=true
+*.gpt linguist-detectable=true
+*.gtl linguist-detectable=true
+*.gto linguist-detectable=true
+*.gtp linguist-detectable=true
+*.gts linguist-detectable=true
+*.ncl linguist-detectable=true
+*.sol linguist-detectable=true
 
