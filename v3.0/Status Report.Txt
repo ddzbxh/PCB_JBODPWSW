@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[V3.0_2021-01-11_10-16-39.RUL]
+   Generated File[V3.0_2021-01-11_10-16-39.EXTREP]
+   Generated File[V3.0_2021-01-11_10-16-39.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At обнГ 1:12:46 On 2021.1.21
