@@ -1,4 +1,7 @@
 # PCB_JBODPWSW
+
+**The software part is on the back burner while the project is not finished.**
+
 This pcb bord project relates to a power control and fan_pwm motherboard of a JBOD storage server.
 
 GNU Lesser General Public License v2.1
